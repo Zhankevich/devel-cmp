@@ -1,5 +1,5 @@
 homepage: "https://devel-cmp.donotexists.com/"
 documentation: "https://devel-cmp.donotexists.com/documentation"
 versions:
-  - sha: ab136f2dc0dd22ca1293d3b7f03d62486c0fe15f
+  - sha: 43dc53b7a837fb891f81a86d070efdedadf74c31
     changeNotes: Initial release.
