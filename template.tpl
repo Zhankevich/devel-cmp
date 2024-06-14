@@ -81,7 +81,7 @@ ___VENDOR_DETAILS___
   "homepageUrl": "https://devel-cmp.donotexists.com/",
   "freeTrial": "Consent chaos, begone! 14-day free trial awaits.",
   "countries": "AT, BE, BG, HR, CY, CZ, DK, EE, FI, FR, DE, GR, HU, IE, IT, LV",
-  "languages": "EN, ES, FR, DE, ZH, JA, AR, RU, PT, IT",
+  "languages": ["EN", "ES", "FR", "DE"],
   "price": "Pay-as-you-grow pricing. Starts free for small projects, then $29/month for up to 50,000 sessions, $99/month for up to 250,000 sessions.",
   "platforms": ["WEB", "AMP", "ANDROID", "IOS"],
   "preview": [
