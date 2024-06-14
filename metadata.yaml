@@ -1,5 +1,6 @@
 homepage: "https://devel-cmp.donotexists.com/"
 documentation: "https://devel-cmp.donotexists.com/documentation"
+versions:
   # Latest version
   - sha: d42ed53a5d6a86e37fdf29c2e2745751b2ccb316
     changeNotes: Change languages to be array.
